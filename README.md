@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @ryan7601
-- 👀 I’m interested in learn dev
-- 🌱 I’m currently learning system devlopment
-- 💞️ I’m looking to collaborate on begginer projects
-- 📫 How to reach me: ryans7601@gmail.com
+
